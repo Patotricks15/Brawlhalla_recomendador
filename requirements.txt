@@ -1,5 +1,4 @@
-pip install --no-dependencies pyad
-pywin32==300
+pip install --upgrade pippywin32==300
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
