@@ -1,4 +1,5 @@
-pip install --upgrade pippywin32==300
+-m pip install --upgrade pip
+pywin32==300
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
