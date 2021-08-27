@@ -1,3 +1,4 @@
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
