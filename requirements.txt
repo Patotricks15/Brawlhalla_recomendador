@@ -1,4 +1,4 @@
-pypiwin32
+pywin32==301
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
