@@ -85,12 +85,12 @@ set_png_as_page_bg('wall.jpg')
 
 
 
-st.markdown('# Recomendador de personagens - Brawlhalla')
-st.write('### Um sistema de recomendação de personagens baseado nos atributos e armas semelhantes')
+st.markdown('# Legends recommender - Brawlhalla')
+st.write('### A character recommendation system based on attributes and similar weapons')
 st.write('')
 st.write('')
 st.write('')
-personagem = st.selectbox('Selecione um personagem:', df_completo['legend'])
+personagem = st.selectbox('Select a legend:', df_completo['legend'])
 
 
 
